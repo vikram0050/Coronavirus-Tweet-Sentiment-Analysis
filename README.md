@@ -10,7 +10,7 @@ Sentiment Analysis is the method of 'computationally' defining if a piece of wri
 
 Business: In marketing field companies use it to develop their strategies, to understand customers’ feelings towards products or brand, how people respond to their campaigns or product launches and why consumers don’t buy some products.
 
-#Problem Description
+# Problem Description
 
 This challenge asks you to build a classification model to predict the sentiment of COVID-19 tweets.The tweets have been pulled from Twitter and manual tagging has been done then. The names and usernames have been given codes to avoid any privacy concerns. You are given the following information:
 
@@ -19,7 +19,7 @@ This challenge asks you to build a classification model to predict the sentiment
 3.Original Tweet
 4.Label
 
-#Approach
+# Approach
 
 ![158756264-a379e4fd-1732-4267-999c-33b1d4783d98](https://user-images.githubusercontent.com/31198822/215026965-012055c5-e0c1-4a86-92cc-ec58468da718.png)
 
@@ -34,7 +34,7 @@ This challenge asks you to build a classification model to predict the sentiment
 5.implemented multiple classification models for multi class classification.
 
 
-#Technologies
+# Technologies
 
 1.Python
 
@@ -50,6 +50,6 @@ This challenge asks you to build a classification model to predict the sentiment
 
 7.Matplotlib
 
-#Result
+# Result
 
 I built a classification model that predicts the sentiment of tweets with an accuracy score of 78%.
