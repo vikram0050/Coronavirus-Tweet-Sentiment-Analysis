@@ -36,19 +36,19 @@ This challenge asks you to build a classification model to predict the sentiment
 
 #Technologies
 
-Python
+1.Python
 
-NLTK
+2.NLTK
 
-Textblob
+3.Textblob
 
-Pandas
+4.Pandas
 
-Google Colab
+5.Google Colab
 
-Seaborn
+6.Seaborn
 
-Matplotlib
+7.Matplotlib
 
 #Result
 
