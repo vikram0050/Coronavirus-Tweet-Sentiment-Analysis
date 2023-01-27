@@ -20,3 +20,36 @@ This challenge asks you to build a classification model to predict the sentiment
 4.Label
 
 #Approach
+
+![158756264-a379e4fd-1732-4267-999c-33b1d4783d98](https://user-images.githubusercontent.com/31198822/215026965-012055c5-e0c1-4a86-92cc-ec58468da718.png)
+
+1.Familiarized and cleaned the data by doing preliminary analysis, and dealt with null values performed EDA.
+
+2.Removed html tags and unwanted words from the text data. Tokenization and stemming functions are applied.
+
+3.Extracted hashtags belonging to different classes.
+
+4.Used count vectorization for vectorizing the tweet text.
+
+5.implemented multiple classification models for multi class classification.
+
+
+#Technologies
+
+Python
+
+NLTK
+
+Textblob
+
+Pandas
+
+Google Colab
+
+Seaborn
+
+Matplotlib
+
+#Result
+
+I built a classification model that predicts the sentiment of tweets with an accuracy score of 78%.
